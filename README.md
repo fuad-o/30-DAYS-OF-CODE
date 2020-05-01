@@ -1,2 +1,4 @@
 # 30-DAYS-OF-CODE
 DAY ONE TASK (BEGINNER_BACKEND)
+
+https://fuad-o.github.io/30-DAYS-OF-CODE/
