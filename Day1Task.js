@@ -16,26 +16,29 @@ function myFunction (int) {
     }
     
     else { 
-        return 'Error'
+        return 'Error';
         //Ensure that only integer values can be passed in, else input is returned
     }
 
     for (let counter = 1; counter < int; counter++) {
         //counter is set less than int based on instructions.
         if (int % counter === 0) {
-            console.log( `${int} is divisible by ${counter}`)
-           division.push(counter)
+            console.log( `${int} is divisible by ${counter}`);
+           division.push(counter);
            
         }
         
     }
     
-    return `${int} is divisible by ${division.length} digits with 0 remainder.`
+    return `${int} is divisible by ${division.length} digits with 0 remainder.`;
 
 
 }
 
-console.log(myFunction(35.7))
+
+console.log(myFunction(357));
+console.log(myFunction(35.7));
+console.log(myFunction('hello'));
 
 
 
