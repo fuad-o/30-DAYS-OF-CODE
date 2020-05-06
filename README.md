@@ -13,3 +13,5 @@ https://github.com/fuad-o/30-DAYS-OF-CODE/blob/master/Day2Task.js
 
 
 https://github.com/fuad-o/30-DAYS-OF-CODE/blob/master/Day3Task.js
+
+https://github.com/fuad-o/30-DAYS-OF-CODE/blob/master/Day4Task.js
